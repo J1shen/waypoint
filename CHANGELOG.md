@@ -1,5 +1,13 @@
 # Changelog
 
+## [0.3.0](https://github.com/kaiitunnz/waypoint/compare/v0.2.0...v0.3.0) (2026-06-30)
+
+
+### Features
+
+* add /btw side-questions to the Claude agent ([#181](https://github.com/kaiitunnz/waypoint/issues/181)) ([1d266aa](https://github.com/kaiitunnz/waypoint/commit/1d266aaee600f57ed50e625c4ac85e7df8204a35))
+* add event coalescing to CLI sessions events and output ([#183](https://github.com/kaiitunnz/waypoint/issues/183)) ([6442852](https://github.com/kaiitunnz/waypoint/commit/6442852d395d0983fbd58457e297ac5ee3fe6ff6))
+
 ## [0.2.0](https://github.com/kaiitunnz/waypoint/compare/v0.1.3...v0.2.0) (2026-06-26)
 
 
